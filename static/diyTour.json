@@ -1,0 +1,44 @@
+{
+	"list":[{
+		"name":"特色服务",
+		"price":30,
+		"content":"六重暴涨尊享版",
+		"hotname":"",
+		"dateTime":"",
+		"num":0
+		},
+		{
+		"name":"短途游",
+		"price":239,
+		"content":"【爆款特价】香港海洋公园（尖沙咀/铜锣湾单程巴士+门票",
+		"hotname":"",
+		"dateTime":"",
+		"num":0
+		},
+		{
+		"name":"景点门票",
+		"price":1248,
+		"content":"【无需打印】香港迪士尼1日家庭电子套票（2大1小）",
+		"hotname":"亲子家庭票",
+		"dateTime":"2017-12-30",
+		"num":0
+		},
+		{
+		"name":"美食",
+		"price":638,
+		"content":"喜记避风塘炒辣蟹2人A餐",
+		"hotname":"",
+		"dateTime":"2017-01-30",
+		"num":0
+		},
+		{
+		"name":"出境WiFi",
+		"price":600,
+		"content":"港澳WiFi (上海自取)",
+		"hotname":"",
+		"dateTime":"",
+		"num":0
+		}
+		
+	]
+}

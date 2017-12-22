@@ -1,0 +1,263 @@
+{
+    "ResponseStatus": {
+        "Timestamp": "2017-12-19T18:20:24.646+08:00",
+        "Ack": "Success",
+        "Errors": [],
+        "Build": null,
+        "Version": "V1.0",
+        "Extension": [
+            {
+                "Id": null,
+                "Version": null,
+                "ContentType": "Clog-Url",
+                "Value": ""
+            },
+            {
+                "Id": null,
+                "Version": null,
+                "ContentType": "RootMessageId",
+                "Value": "921812-0a0e0dee-420466-1940496"
+            },
+            {
+                "Id": null,
+                "Version": null,
+                "ContentType": "Elapsed",
+                "Value": "总耗时:37.15 ms "
+            },
+            {
+                "Id": "CLOGGING_TRACE_ID",
+                "Version": null,
+                "ContentType": null,
+                "Value": "255653057033116498"
+            },
+            {
+                "Id": "RootMessageId",
+                "Version": null,
+                "ContentType": null,
+                "Value": "921812-0a0e0dee-420466-1940496"
+            }
+        ]
+    },
+    "Data": {
+        "DetailPageSortList": [
+            {
+                "CategoryId": 18,
+                "CategoryName": "优惠",
+                "SortKey": 0,
+                "ShowNumber": 0
+            },
+            {
+                "CategoryId": 55,
+                "CategoryName": "游管家",
+                "SortKey": 1,
+                "ShowNumber": 0
+            },
+            {
+                "CategoryId": 15,
+                "CategoryName": "签证",
+                "SortKey": 2,
+                "ShowNumber": 0
+            },
+            {
+                "CategoryId": 14,
+                "CategoryName": "保险",
+                "SortKey": 3,
+                "ShowNumber": 0
+            }
+        ],
+        "OptionalPageSortList": [
+            {
+                "CategoryId": 16,
+                "CategoryName": "特色服务",
+                "SortKey": 0,
+                "ShowNumber": 0
+            },
+            {
+                "CategoryId": 6,
+                "CategoryName": "短途游",
+                "SortKey": 1,
+                "ShowNumber": 0
+            },
+            {
+                "CategoryId": 2,
+                "CategoryName": "用车",
+                "SortKey": 2,
+                "ShowNumber": 0
+            },
+            {
+                "CategoryId": 4,
+                "CategoryName": "门票",
+                "SortKey": 3,
+                "ShowNumber": 1
+            },
+            {
+                "CategoryId": 24,
+                "CategoryName": "美食",
+                "SortKey": 4,
+                "ShowNumber": 0
+            },
+            {
+                "CategoryId": 5,
+                "CategoryName": "娱乐",
+                "SortKey": 5,
+                "ShowNumber": 0
+            },
+            {
+                "CategoryId": 99,
+                "CategoryName": "wifi/通讯",
+                "SortKey": 6,
+                "ShowNumber": 0
+            },
+            {
+                "CategoryId": 30,
+                "CategoryName": "单房差",
+                "SortKey": 7,
+                "ShowNumber": 0
+            },
+            {
+                "CategoryId": 17,
+                "CategoryName": "附加费用",
+                "SortKey": 8,
+                "ShowNumber": 0
+            },
+            {
+                "CategoryId": 49,
+                "CategoryName": "送关服务",
+                "SortKey": 9,
+                "ShowNumber": 0
+            },
+            {
+                "CategoryId": 53,
+                "CategoryName": "行李寄送",
+                "SortKey": 10,
+                "ShowNumber": 0
+            },
+            {
+                "CategoryId": 50,
+                "CategoryName": "无线租赁",
+                "SortKey": 11,
+                "ShowNumber": 0
+            },
+            {
+                "CategoryId": 48,
+                "CategoryName": "单项服务",
+                "SortKey": 12,
+                "ShowNumber": 0
+            }
+        ],
+        "POISortList": [
+            {
+                "PoiId": 76011,
+                "SortKey": 0,
+                "Name": "香港会议展览中心"
+            },
+            {
+                "PoiId": 76012,
+                "SortKey": 1,
+                "Name": "太平山顶"
+            },
+            {
+                "PoiId": 76019,
+                "SortKey": 2,
+                "Name": "黄大仙祠"
+            },
+            {
+                "PoiId": 76024,
+                "SortKey": 3,
+                "Name": "香港历史博物馆"
+            },
+            {
+                "PoiId": 76030,
+                "SortKey": 4,
+                "Name": "维多利亚公园"
+            },
+            {
+                "PoiId": 76032,
+                "SortKey": 5,
+                "Name": "香港科学馆"
+            },
+            {
+                "PoiId": 81942,
+                "SortKey": 6,
+                "Name": "星光大道"
+            },
+            {
+                "PoiId": 81945,
+                "SortKey": 7,
+                "Name": "金紫荆广场"
+            },
+            {
+                "PoiId": 82116,
+                "SortKey": 8,
+                "Name": "香港杜莎夫人蜡像馆"
+            },
+            {
+                "PoiId": 85219,
+                "SortKey": 9,
+                "Name": "维多利亚港"
+            },
+            {
+                "PoiId": 92181,
+                "SortKey": 10,
+                "Name": "凌霄阁"
+            },
+            {
+                "PoiId": 102599,
+                "SortKey": 11,
+                "Name": "崇光百货（铜锣湾店）"
+            },
+            {
+                "PoiId": 102600,
+                "SortKey": 12,
+                "Name": "东荟城名店仓"
+            },
+            {
+                "PoiId": 102602,
+                "SortKey": 13,
+                "Name": "加连威老道"
+            },
+            {
+                "PoiId": 102605,
+                "SortKey": 14,
+                "Name": "龙城大药房"
+            },
+            {
+                "PoiId": 102609,
+                "SortKey": 15,
+                "Name": "香港时代广场"
+            },
+            {
+                "PoiId": 102611,
+                "SortKey": 16,
+                "Name": "渣甸坊"
+            },
+            {
+                "PoiId": 10566148,
+                "SortKey": 17,
+                "Name": "DFS旗下T广场（香港尖东店）"
+            },
+            {
+                "PoiId": 10568338,
+                "SortKey": 18,
+                "Name": "朗豪坊商场"
+            },
+            {
+                "PoiId": 10568342,
+                "SortKey": 19,
+                "Name": "希慎广场"
+            },
+            {
+                "PoiId": 10758354,
+                "SortKey": 20,
+                "Name": "兰桂坊"
+            },
+            {
+                "PoiId": 10758516,
+                "SortKey": 21,
+                "Name": "天星小轮"
+            }
+        ],
+        "ProductRegionId": 52,
+        "IsShowLowerPriceTip": false
+    }
+}

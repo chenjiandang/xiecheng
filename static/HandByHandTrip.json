@@ -1,0 +1,789 @@
+{
+    "ResponseStatus": {
+        "Timestamp": "/Date(1513594838478+0800)/",
+        "Ack": "Success",
+        "Errors": [],
+        "Build": null,
+        "Version": "V1.0",
+        "Extension": [
+            {
+                "Id": null,
+                "Version": null,
+                "ContentType": "Clog-Url",
+                "Value": ""
+            },
+            {
+                "Id": null,
+                "Version": null,
+                "ContentType": "RootMessageId",
+                "Value": "921812-0a1c7f27-420443-58774"
+            },
+            {
+                "Id": null,
+                "Version": null,
+                "ContentType": "Elapsed",
+                "Value": "总耗时:72.59 ms "
+            },
+            {
+                "Id": "CLOGGING_TRACE_ID",
+                "Version": null,
+                "ContentType": null,
+                "Value": "5583290819439844803"
+            },
+            {
+                "Id": "RootMessageId",
+                "Version": null,
+                "ContentType": null,
+                "Value": "921812-0a1c7f27-420443-58774"
+            }
+        ]
+    },
+    "Data": {
+        "TabInfo": {
+            "Topics": [
+                {
+                    "Key": "当季热",
+                    "Value": "DangJiRe"
+                },
+                {
+                    "Key": "情侣蜜",
+                    "Value": "QingLvXing"
+                },
+                {
+                    "Key": "亲子游",
+                    "Value": "QinZiYou"
+                },
+                {
+                    "Key": "爸妈游",
+                    "Value": "BaMaYou"
+                },
+                {
+                    "Key": "沙滩躺",
+                    "Value": "ShaTanTang"
+                },
+                {
+                    "Key": "闺蜜腻",
+                    "Value": "YouZhiLv"
+                },
+                {
+                    "Key": "免签游",
+                    "Value": "MianQianYou"
+                },
+                {
+                    "Key": "岛主会",
+                    "Value": "WangBiHai"
+                },
+                {
+                    "Key": "水者智",
+                    "Value": "XiangZiRan"
+                },
+                {
+                    "Key": "文艺青",
+                    "Value": "WenYiQing"
+                },
+                {
+                    "Key": "地貌奇",
+                    "Value": "DiMaoQi"
+                },
+                {
+                    "Key": "千古寻",
+                    "Value": "HuaiQianGu"
+                },
+                {
+                    "Key": "山者仁",
+                    "Value": "DengMingShan"
+                },
+                {
+                    "Key": "好摄徒",
+                    "Value": "HaoSheTu"
+                },
+                {
+                    "Key": "寻仙记",
+                    "Value": "XunXianJi"
+                },
+                {
+                    "Key": "森活氧",
+                    "Value": "SenHuoYang"
+                },
+                {
+                    "Key": "户外越",
+                    "Value": "HuWaiYue"
+                },
+                {
+                    "Key": "民风淳",
+                    "Value": "TiMinFeng"
+                },
+                {
+                    "Key": "世遗风",
+                    "Value": "PinShiYi"
+                },
+                {
+                    "Key": "温泉泡",
+                    "Value": "WenQuanPao"
+                },
+                {
+                    "Key": "心跳颤",
+                    "Value": "XinTiaoChan"
+                },
+                {
+                    "Key": "组团浪",
+                    "Value": "ZuTuanLang"
+                },
+                {
+                    "Key": "教堂祷",
+                    "Value": "JiaoTangQi"
+                },
+                {
+                    "Key": "皇殿奢",
+                    "Value": "HuangDianShe"
+                },
+                {
+                    "Key": "乡野闲",
+                    "Value": "XiangYeXian"
+                },
+                {
+                    "Key": "鲛人潜",
+                    "Value": "JiaoRenQian"
+                },
+                {
+                    "Key": "大漠谣",
+                    "Value": "DaMoYao"
+                }
+            ],
+            "Times": {
+                "DateTab": [
+                    {
+                        "Key": "12月",
+                        "Value": "12_month"
+                    },
+                    {
+                        "Key": "1月",
+                        "Value": "1_month"
+                    },
+                    {
+                        "Key": "2月",
+                        "Value": "2_month"
+                    }
+                ],
+                "TravelDays": [
+                    {
+                        "Key": "2天",
+                        "Value": "2_day"
+                    },
+                    {
+                        "Key": "3天",
+                        "Value": "3_day"
+                    },
+                    {
+                        "Key": "4天",
+                        "Value": "4_day"
+                    },
+                    {
+                        "Key": "5天",
+                        "Value": "5_day"
+                    },
+                    {
+                        "Key": "6天",
+                        "Value": "6_day"
+                    },
+                    {
+                        "Key": "7天",
+                        "Value": "7_day"
+                    }
+                ]
+            },
+            "Destinations": [
+                {
+                    "Key": "国内游",
+                    "Value": "CHINA"
+                },
+                {
+                    "Key": "出境游",
+                    "Value": "OVERSEAS"
+                },
+                {
+                    "Key": "东南亚",
+                    "Value": "1"
+                },
+                {
+                    "Key": "日蒙",
+                    "Value": "2"
+                },
+                {
+                    "Key": "美洲",
+                    "Value": "3"
+                },
+                {
+                    "Key": "欧洲",
+                    "Value": "4"
+                },
+                {
+                    "Key": "大洋洲",
+                    "Value": "5"
+                },
+                {
+                    "Key": "非洲",
+                    "Value": "6"
+                },
+                {
+                    "Key": "南亚",
+                    "Value": "7"
+                },
+                {
+                    "Key": "西亚",
+                    "Value": "8"
+                },
+                {
+                    "Key": "港澳台",
+                    "Value": "9"
+                },
+                {
+                    "Key": "华东",
+                    "Value": "10"
+                },
+                {
+                    "Key": "华北",
+                    "Value": "11"
+                },
+                {
+                    "Key": "华南",
+                    "Value": "12"
+                },
+                {
+                    "Key": "西南",
+                    "Value": "13"
+                },
+                {
+                    "Key": "西北",
+                    "Value": "14"
+                },
+                {
+                    "Key": "东北",
+                    "Value": "15"
+                },
+                {
+                    "Key": "华中",
+                    "Value": "16"
+                }
+            ]
+        },
+        "Lines": [
+            {
+                "LineID": "58",
+                "LineName": "香港",
+                "LineImgURL": "https://youimg1.c-ctrip.com/target/fd/tg/g2/M01/90/33/CghzgVWmHkiAA2TdACQrZ7abkhU404_C_750_320_Q70.jpg",
+                "LinePOIInfos": [
+                    {
+                        "POIID": "10558849",
+                        "POIName": "香港迪士尼乐园",
+                        "TopID": "54",
+                        "TopName": "主题"
+                    },
+                    {
+                        "POIID": "10558616",
+                        "POIName": "海洋公园",
+                        "TopID": "54",
+                        "TopName": "主题"
+                    },
+                    {
+                        "POIID": "76012",
+                        "POIName": "太平山顶",
+                        "TopID": "24",
+                        "TopName": "名山"
+                    },
+                    {
+                        "POIID": "87802",
+                        "POIName": "大屿山",
+                        "TopID": "24",
+                        "TopName": "名山"
+                    },
+                    {
+                        "POIID": "76014",
+                        "POIName": "浅水湾",
+                        "TopID": "20",
+                        "TopName": "沙滩"
+                    },
+                    {
+                        "POIID": "10524148",
+                        "POIName": "尖沙咀",
+                        "TopID": "53",
+                        "TopName": "街区"
+                    }
+                ],
+                "IsRecommend": true,
+                "Advisedstartday": "2018-01-22",
+                "Advisedtraveldays": "6",
+                "Discount": -2218,
+                "IsDiscount": false,
+                "LineType": "0",
+                "JumpUrl": "",
+                "DisplayText": ""
+            },
+            {
+                "LineID": "43",
+                "LineName": "三亚",
+                "LineImgURL": "https://youimg1.c-ctrip.com/target/fd/tg/g1/M03/7D/32/CghzfFWwz9eAFdICABJIucYkXDg976_C_750_320_Q70.jpg",
+                "LinePOIInfos": [
+                    {
+                        "POIID": "10558612",
+                        "POIName": "亚龙湾",
+                        "TopID": "20",
+                        "TopName": "沙滩"
+                    },
+                    {
+                        "POIID": "10524171",
+                        "POIName": "天涯海角",
+                        "TopID": "20",
+                        "TopName": "沙滩"
+                    },
+                    {
+                        "POIID": "10759147",
+                        "POIName": "三亚千古情景区",
+                        "TopID": "54",
+                        "TopName": "主题"
+                    },
+                    {
+                        "POIID": "75996",
+                        "POIName": "鹿回头山顶公园",
+                        "TopID": "24",
+                        "TopName": "名山"
+                    },
+                    {
+                        "POIID": "10558611",
+                        "POIName": "大东海",
+                        "TopID": "20",
+                        "TopName": "沙滩"
+                    },
+                    {
+                        "POIID": "91877",
+                        "POIName": "第一市场",
+                        "TopID": "53",
+                        "TopName": "街区"
+                    }
+                ],
+                "IsRecommend": true,
+                "Advisedstartday": "2017-12-19",
+                "Advisedtraveldays": "5",
+                "Discount": -762,
+                "IsDiscount": false,
+                "LineType": "0",
+                "JumpUrl": "",
+                "DisplayText": ""
+            },
+            {
+                "LineID": "30",
+                "LineName": "深圳",
+                "LineImgURL": "https://youimg1.c-ctrip.com/target/fd/tg/g6/M0B/8A/3F/CggYs1bQeZWAVFl5AAMT5hN4-IA560_C_750_320_Q70.jpg",
+                "LinePOIInfos": [
+                    {
+                        "POIID": "75869",
+                        "POIName": "世界之窗",
+                        "TopID": "54",
+                        "TopName": "主题"
+                    },
+                    {
+                        "POIID": "83051",
+                        "POIName": "东部华侨城",
+                        "TopID": "54",
+                        "TopName": "主题"
+                    },
+                    {
+                        "POIID": "79101",
+                        "POIName": "欢乐谷",
+                        "TopID": "54",
+                        "TopName": "主题"
+                    },
+                    {
+                        "POIID": "75867",
+                        "POIName": "锦绣中华民俗村",
+                        "TopID": "54",
+                        "TopName": "主题"
+                    },
+                    {
+                        "POIID": "10558971",
+                        "POIName": "小梅沙海洋世界",
+                        "TopID": "54",
+                        "TopName": "主题"
+                    },
+                    {
+                        "POIID": "10532517",
+                        "POIName": "沙头角中英街",
+                        "TopID": "53",
+                        "TopName": "街区"
+                    }
+                ],
+                "IsRecommend": true,
+                "Advisedstartday": "2018-01-01",
+                "Advisedtraveldays": "6",
+                "Discount": -158,
+                "IsDiscount": false,
+                "LineType": "0",
+                "JumpUrl": "",
+                "DisplayText": ""
+            },
+            {
+                "LineID": "7",
+                "LineName": "青岛",
+                "LineImgURL": "https://youimg1.c-ctrip.com/target/100s040000000926p404B_C_750_320_Q70.jpg",
+                "LinePOIInfos": [
+                    {
+                        "POIID": "85745",
+                        "POIName": "崂山",
+                        "TopID": "19",
+                        "TopName": "海滨"
+                    },
+                    {
+                        "POIID": "75648",
+                        "POIName": "栈桥",
+                        "TopID": "19",
+                        "TopName": "海滨"
+                    },
+                    {
+                        "POIID": "76741",
+                        "POIName": "信号山公园",
+                        "TopID": "24",
+                        "TopName": "名山"
+                    },
+                    {
+                        "POIID": "10799647",
+                        "POIName": "青岛世界园艺博览园",
+                        "TopID": "54",
+                        "TopName": "主题"
+                    },
+                    {
+                        "POIID": "101668",
+                        "POIName": "黄岛金沙滩",
+                        "TopID": "19",
+                        "TopName": "海滨"
+                    },
+                    {
+                        "POIID": "83237",
+                        "POIName": "八大关",
+                        "TopID": "53",
+                        "TopName": "街区"
+                    }
+                ],
+                "IsRecommend": true,
+                "Advisedstartday": "2017-12-20",
+                "Advisedtraveldays": "6",
+                "Discount": 440,
+                "IsDiscount": false,
+                "LineType": "0",
+                "JumpUrl": "",
+                "DisplayText": ""
+            },
+            {
+                "LineID": "27",
+                "LineName": "张家界",
+                "LineImgURL": "https://youimg1.c-ctrip.com/target/tg/239/814/516/ac180044de4948b59f7e517ae07ac5ce_C_750_320_Q70.jpg",
+                "LinePOIInfos": [
+                    {
+                        "POIID": "10558650",
+                        "POIName": "天门山国家森林公园",
+                        "TopID": "24",
+                        "TopName": "名山"
+                    },
+                    {
+                        "POIID": "10559092",
+                        "POIName": "张家界国家森林公园",
+                        "TopID": "24",
+                        "TopName": "名山"
+                    },
+                    {
+                        "POIID": "77204",
+                        "POIName": "袁家界",
+                        "TopID": "24",
+                        "TopName": "名山"
+                    },
+                    {
+                        "POIID": "75860",
+                        "POIName": "天子山",
+                        "TopID": "24",
+                        "TopName": "名山"
+                    },
+                    {
+                        "POIID": "77201",
+                        "POIName": "黄石寨",
+                        "TopID": "24",
+                        "TopName": "名山"
+                    },
+                    {
+                        "POIID": "84933",
+                        "POIName": "大庸府城",
+                        "TopID": "53",
+                        "TopName": "街区"
+                    }
+                ],
+                "IsRecommend": true,
+                "Advisedstartday": "2018-01-04",
+                "Advisedtraveldays": "6",
+                "Discount": -505,
+                "IsDiscount": false,
+                "LineType": "0",
+                "JumpUrl": "",
+                "DisplayText": ""
+            },
+            {
+                "LineID": "725",
+                "LineName": "普吉岛",
+                "LineImgURL": "https://youimg1.c-ctrip.com/target/fd/tg/g2/M04/90/9F/Cghzf1WmHMiAedhUAByI2Y3Qt4E974_C_750_320_Q70.jpg",
+                "LinePOIInfos": [
+                    {
+                        "POIID": "80291",
+                        "POIName": "芭东海滩",
+                        "TopID": "20",
+                        "TopName": "沙滩"
+                    },
+                    {
+                        "POIID": "80294",
+                        "POIName": "卡塔海滩",
+                        "TopID": "20",
+                        "TopName": "沙滩"
+                    },
+                    {
+                        "POIID": "80295",
+                        "POIName": "卡伦海滩",
+                        "TopID": "20",
+                        "TopName": "沙滩"
+                    },
+                    {
+                        "POIID": "80574",
+                        "POIName": "卡马拉海滩",
+                        "TopID": "20",
+                        "TopName": "沙滩"
+                    },
+                    {
+                        "POIID": "82491",
+                        "POIName": "拉崴海滩",
+                        "TopID": "20",
+                        "TopName": "沙滩"
+                    },
+                    {
+                        "POIID": "10521616",
+                        "POIName": "邦古拉街",
+                        "TopID": "53",
+                        "TopName": "街区"
+                    }
+                ],
+                "IsRecommend": true,
+                "Advisedstartday": "2018-01-18",
+                "Advisedtraveldays": "7",
+                "Discount": -6785,
+                "IsDiscount": false,
+                "LineType": "0",
+                "JumpUrl": "",
+                "DisplayText": ""
+            },
+            {
+                "LineID": "6",
+                "LineName": "大连",
+                "LineImgURL": "https://youimg1.c-ctrip.com/target/fd/tg/g5/M09/E3/1B/CggYsVaoWeGALJuAABfCy3iIsLQ392_C_750_320_Q70.jpg",
+                "LinePOIInfos": [
+                    {
+                        "POIID": "75630",
+                        "POIName": "老虎滩海洋公园",
+                        "TopID": "54",
+                        "TopName": "主题"
+                    },
+                    {
+                        "POIID": "79168",
+                        "POIName": "大连圣亚海洋世界",
+                        "TopID": "54",
+                        "TopName": "主题"
+                    },
+                    {
+                        "POIID": "10559167",
+                        "POIName": "发现王国主题公园",
+                        "TopID": "54",
+                        "TopName": "主题"
+                    },
+                    {
+                        "POIID": "75633",
+                        "POIName": "大连森林动物园",
+                        "TopID": "24",
+                        "TopName": "名山"
+                    },
+                    {
+                        "POIID": "87618",
+                        "POIName": "金石滩度假区",
+                        "TopID": "54",
+                        "TopName": "主题"
+                    },
+                    {
+                        "POIID": "76865",
+                        "POIName": "星海广场",
+                        "TopID": "8",
+                        "TopName": "地标"
+                    }
+                ],
+                "IsRecommend": true,
+                "Advisedstartday": "2017-12-22",
+                "Advisedtraveldays": "6",
+                "Discount": -25,
+                "IsDiscount": false,
+                "LineType": "0",
+                "JumpUrl": "",
+                "DisplayText": ""
+            },
+            {
+                "LineID": "17",
+                "LineName": "杭州",
+                "LineImgURL": "https://youimg1.c-ctrip.com/target/fd/tg/g2/M02/8A/AF/CghzgVWw2-GAJ9gvAAYCdzpfADo709_C_750_320_Q70.jpg",
+                "LinePOIInfos": [
+                    {
+                        "POIID": "10558619",
+                        "POIName": "杭州宋城景区",
+                        "TopID": "54",
+                        "TopName": "主题"
+                    },
+                    {
+                        "POIID": "82527",
+                        "POIName": "杭州灵隐（飞来峰）景区",
+                        "TopID": "24",
+                        "TopName": "名山"
+                    },
+                    {
+                        "POIID": "97345",
+                        "POIName": "杭州宋城烂苹果乐园",
+                        "TopID": "54",
+                        "TopName": "主题"
+                    },
+                    {
+                        "POIID": "75752",
+                        "POIName": "云栖竹径",
+                        "TopID": "24",
+                        "TopName": "名山"
+                    },
+                    {
+                        "POIID": "97310",
+                        "POIName": "超山风景区",
+                        "TopID": "24",
+                        "TopName": "名山"
+                    },
+                    {
+                        "POIID": "97421",
+                        "POIName": "清河坊街",
+                        "TopID": "53",
+                        "TopName": "街区"
+                    }
+                ],
+                "IsRecommend": true,
+                "Advisedstartday": "2018-02-13",
+                "Advisedtraveldays": "4",
+                "Discount": 142,
+                "IsDiscount": false,
+                "LineType": "0",
+                "JumpUrl": "",
+                "DisplayText": ""
+            },
+            {
+                "LineID": "4244",
+                "LineName": "普陀山",
+                "LineImgURL": "https://youimg1.c-ctrip.com/target/fd/tg/g2/M0B/2D/E4/Cghzf1W2JcWAUClYAAVPWhb9Jxg835_C_750_320_Q70.jpg",
+                "LinePOIInfos": [
+                    {
+                        "POIID": "93331",
+                        "POIName": "普陀山风景区",
+                        "TopID": "20",
+                        "TopName": "沙滩"
+                    },
+                    {
+                        "POIID": "10758206",
+                        "POIName": "百步沙",
+                        "TopID": "20",
+                        "TopName": "沙滩"
+                    },
+                    {
+                        "POIID": "75795",
+                        "POIName": "千步沙",
+                        "TopID": "20",
+                        "TopName": "沙滩"
+                    },
+                    {
+                        "POIID": "10519900",
+                        "POIName": "法雨寺景区",
+                        "TopID": "20",
+                        "TopName": "沙滩"
+                    },
+                    {
+                        "POIID": "79411",
+                        "POIName": "短姑圣迹",
+                        "TopID": "20",
+                        "TopName": "沙滩"
+                    },
+                    {
+                        "POIID": "13558492",
+                        "POIName": "香华街",
+                        "TopID": "53",
+                        "TopName": "街区"
+                    }
+                ],
+                "IsRecommend": true,
+                "Advisedstartday": "2017-12-18",
+                "Advisedtraveldays": "3",
+                "Discount": -678,
+                "IsDiscount": false,
+                "LineType": "0",
+                "JumpUrl": "",
+                "DisplayText": ""
+            },
+            {
+                "LineID": "723",
+                "LineName": "巴厘岛",
+                "LineImgURL": "https://youimg1.c-ctrip.com/target/fd/tg/g1/M02/79/29/CghzfVWwp1SAD5gHACTpIEDO0sk435_C_750_320_Q70.jpg",
+                "LinePOIInfos": [
+                    {
+                        "POIID": "80316",
+                        "POIName": "海神庙",
+                        "TopID": "20",
+                        "TopName": "沙滩"
+                    },
+                    {
+                        "POIID": "80526",
+                        "POIName": "金巴兰海滩",
+                        "TopID": "20",
+                        "TopName": "沙滩"
+                    },
+                    {
+                        "POIID": "87061",
+                        "POIName": "库塔海滩",
+                        "TopID": "20",
+                        "TopName": "沙滩"
+                    },
+                    {
+                        "POIID": "83098",
+                        "POIName": "乌鲁瓦图断崖",
+                        "TopID": "20",
+                        "TopName": "沙滩"
+                    },
+                    {
+                        "POIID": "10559142",
+                        "POIName": "努沙杜瓦",
+                        "TopID": "20",
+                        "TopName": "沙滩"
+                    },
+                    {
+                        "POIID": "10354923",
+                        "POIName": "库塔洋人街",
+                        "TopID": "53",
+                        "TopName": "街区"
+                    }
+                ],
+                "IsRecommend": true,
+                "Advisedstartday": "2017-12-19",
+                "Advisedtraveldays": "6",
+                "Discount": -4564,
+                "IsDiscount": false,
+                "LineType": "0",
+                "JumpUrl": "",
+                "DisplayText": ""
+            }
+        ],
+        "Products": null,
+        "IsAllRecommend": true,
+        "TripWay": null,
+        "ProductLevel": null,
+        "DebugInfo": null,
+        "PoiDetails": null
+    }
+}
